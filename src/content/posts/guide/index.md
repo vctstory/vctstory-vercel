@@ -1,6 +1,6 @@
 ---
-title: Simple Guides for Fuwari
-published: 2023-09-01
+title: Simple Guides
+published: 2021-09-01
 description: "How to use this blog template."
 tags: [Demo]
 category: Đang thử nghiệm
@@ -16,7 +16,7 @@ This blog template is built with [Astro](https://astro.build/). For the things t
 ```yaml
 ---
 title: My First Blog Post
-published: 2023-09-09
+published: 2022-09-09
 description: This is the first post of my new Astro blog.
 tags: ["Demo"]
 category: Đang thử nghiệm
