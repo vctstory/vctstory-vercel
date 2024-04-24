@@ -25,7 +25,7 @@ export const vi: Translation = {
 
   [Key.themeColor]: 'Màu sắc',
 
-  [Key.more]: 'More',
+  [Key.more]: 'Xem thêm',
 
   [Key.author]: 'Tác giả',
   [Key.publishedAt]: 'Ngày đăng',

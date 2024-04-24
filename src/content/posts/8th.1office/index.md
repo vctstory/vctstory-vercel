@@ -4,29 +4,12 @@ published: 2023-08-13
 description: "Bài hát chào mừng sinh nhật thứ 8 của 1Office."
 image: "./cover.jpeg"
 tags: ["Âm nhạc"]
-category: Guides
+category: Sở thích
 draft: false
 ---
 
-<!-- Just copy the embed code from YouTube or other platforms, and paste it in the markdown file.
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1597779561&color=%2370c0cc&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/zerbyvkl" title="VIETCUONGTRAN" target="_blank" style="color: #cccccc; text-decoration: none;">VIETCUONGTRAN</a> · <a href="https://soundcloud.com/zerbyvkl/baonamquatalamgi_vct" title="Bao năm qua ta làm gì? - VCT" target="_blank" style="color: #cccccc; text-decoration: none;">Bao năm qua ta làm gì? - VCT</a></div>
 
-```yaml
----
-title: Include Video in the Post
-published: 2023-10-19
-// ...
----
-
-<iframe width="100%" height="468" src="https://www.youtube.com/embed/5gIf0_xpFPI?si=N1WTorLKL0uwLsU_" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-``` -->
-
-## YouTube
-<iframe width="100%" height="468" src="https://www.youtube.com/embed/I1Tdn1eZV8M?si=58N8zS0DbtMizZNF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-## Spotify
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4vK5i1gV9OnCIAFHG6wZ0C?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-## Lời bài hát:
 Bao nhiêu năm trôi qua ta đã có được điều gì khi xung quanh nhìn lại chẳng thấy thiếu gì
 
 Bao anh em xông pha đã từng đi cùng thì người vẫn ở lại và người đã vội đi
@@ -44,9 +27,6 @@ Chặng đường ta đang đi chắc chắn sẽ còn dài, ta hăng say tới 
 Nhấc balo lên vai, chẳng hề nuối tiếc khi thanh xuân hạ màn...
 
 
-Hook:
-
-
 Hãy cứ bước đi, rồi ngày mai sẽ tới
 
 Dù có đôi khi, chỉ riêng ta một mình
@@ -54,6 +34,7 @@ Dù có đôi khi, chỉ riêng ta một mình
 Hãy giữ trong tim, ngọn lửa đam mê đó
 
 Chẳng khó khăn chi, thành công đang đợi mình.
+
 
 Ta đã sống loanh quanh muôn vàn câu hỏi vì sao
 
@@ -92,9 +73,6 @@ Cười lên đừng để nỗi buồn kiểm soát cả ngày lẫn đêm
 Nhưng còn bên ta những người luôn sát cánh kề vai cùng ta vươn xa với.
 
 
-Hook:
-
-
 Hãy cứ bước đi, rồi ngày mai sẽ tới
 
 Dù có đôi khi, chỉ riêng ta một mình
@@ -102,3 +80,5 @@ Dù có đôi khi, chỉ riêng ta một mình
 Hãy giữ trong tim, ngọn lửa đam mê đó
 
 Chẳng khó khăn chi, thành công đang đợi mình.
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4vK5i1gV9OnCIAFHG6wZ0C?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

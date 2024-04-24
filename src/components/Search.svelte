@@ -69,7 +69,7 @@ $: search(keywordMobile, false)
       dark:bg-white/5 dark:hover:bg-white/10 dark:focus-within:bg-white/10
 ">
     <slot name="search-icon"></slot>
-    <input placeholder="Search" bind:value={keywordDesktop} on:focus={() => search(keywordDesktop, true)}
+    <input placeholder="Tìm kiếm" bind:value={keywordDesktop} on:focus={() => search(keywordDesktop, true)}
            class="transition-all pl-10 text-sm bg-transparent outline-0
          h-full w-40 active:w-60 focus:w-60 text-black/50 dark:text-white/50"
     >
@@ -91,7 +91,7 @@ top-20 left-4 md:left-[unset] right-4 shadow-2xl rounded-2xl p-2">
       dark:bg-white/5 dark:hover:bg-white/10 dark:focus-within:bg-white/10
   ">
         <slot name="search-icon"></slot>
-        <input placeholder="Search" bind:value={keywordMobile}
+        <input placeholder="Tìm kiếm" bind:value={keywordMobile}
                class="pl-10 absolute inset-0 text-sm bg-transparent outline-0
                focus:w-60 text-black/50 dark:text-white/50"
         >

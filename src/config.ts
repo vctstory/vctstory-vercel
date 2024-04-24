@@ -40,18 +40,18 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/demo-avatar.png',
   name: 'Viet Cuong Tran',
-  bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+  bio: 'Go with the flow',
   links: [
     {
       name: 'Facebook',
       icon: 'fa6-brands:facebook',
       url: 'https://www.facebook.com/vct.410/',
     },
-    // {
-    //   name: 'Steam',
-    //   icon: 'fa6-brands:steam',
-    //   url: 'https://store.steampowered.com',
-    // },
+    {
+      name: 'Youtube',
+      icon: 'fa6-brands:youtube',
+      url: 'https://www.youtube.com/@zerbyvkl',
+    },
     // {
     //   name: 'GitHub',
     //   icon: 'fa6-brands:github',

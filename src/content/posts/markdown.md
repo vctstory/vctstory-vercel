@@ -1,9 +1,9 @@
 ---
 title: Markdown Example
-published: 2023-10-01
+published: 2022-10-01
 description: A simple example of a Markdown blog post.
-tags: [Markdown, Blogging, Demo]
-category: Examples
+tags: [Demo]
+category: Đang thử nghiệm
 draft: false
 ---
 

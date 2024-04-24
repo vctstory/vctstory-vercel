@@ -2,9 +2,8 @@
 title: Simple Guides for Fuwari
 published: 2023-09-01
 description: "How to use this blog template."
-image: "./cover.jpeg"
-tags: ["Blogging", "Customization"]
-category: Guides
+tags: [Demo]
+category: Đang thử nghiệm
 draft: false
 ---
 
@@ -19,9 +18,8 @@ This blog template is built with [Astro](https://astro.build/). For the things t
 title: My First Blog Post
 published: 2023-09-09
 description: This is the first post of my new Astro blog.
-image: ./cover.jpg
-tags: [Foo, Bar]
-category: Front-end
+tags: ["Demo"]
+category: Đang thử nghiệm
 draft: false
 ---
 ```
